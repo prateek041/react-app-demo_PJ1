@@ -53,7 +53,7 @@ main {
     color: white;
     background-image: url("./images/react-logo-half.png");
     background-repeat: no-repeat;
-    background-position: ;
+    background-position: right 90%;
 }
 
 .main-header {
